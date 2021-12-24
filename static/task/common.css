@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  font-size: xx-large;
+  border: 1px solid;
+  background-color: gray;
+}
+
+div {
+  margin-top: 100px;
+}
+
+div a {
+  text-decoration: unset;
+  border: solid 1px;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+div a:hover {
+  background-color: blue;
+  color: white;
+}
+
+ul {
+  margin: 20px;
+  font-size: 24px;
+}
+
+#form {
+  margin-left: 50px;
+}
+
+form #submit:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=common.css.map */
